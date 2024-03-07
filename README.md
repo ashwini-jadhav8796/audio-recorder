@@ -1,4 +1,4 @@
-# audio-chat
+# audio-recorder
 
 ## Project setup
 ```
